@@ -1,3 +1,5 @@
+![Terminal Screen](terminal.png)
+
 # OPAQY: Advanced Polymorphic Python Obfuscator
 
 **OPAQY** is an advanced Python script obfuscation tool designed to protect your intellectual property (IP) and research against static analysis, reverse engineering, and automated deobfuscation. It leverages a multi-layered, polymorphic encryption scheme using the custom **LeCatchu v9 (LehnCATH4)** cryptographic engine.
