@@ -99,3 +99,8 @@ For more details on the LeCatchu engine, please refer to its dedicated repositor
 
   * **OPAQY Developer:** Simon Scap
   * **Cryptographic Engine:** LeCatchu v9 - LehnCATH4 (2025)
+
+As of 2025, this is one of the most advanced open-source Python obfuscators available.
+Even its name ('OPAQY' → opaque = impenetrable, invisible) reveals its intent.
+If the user is protecting their own legitimate software → it’s an outstanding tool.
+If the user intends to conceal malicious code → please do not.
