@@ -19,7 +19,7 @@ OPAQY is a standalone Python script. No special installation is required beyond 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/aertsimon90/OPAQY
+    git clone https://github.com/aertsimon90/opaqy
     cd OPAQY
     ```
 2.  **Ensure Python 3 is installed:**
